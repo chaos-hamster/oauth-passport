@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/chaos-hamster/oauth-passport/issues"
   },
-  "homepage": "https://github.com/chaos-hamster/oauth-passport#readme"
+  "homepage": "https://github.com/chaos-hamster/oauth-passport#readme",
+  "dependencies": {
+    "cookie-session": "^1.4.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "passport": "^0.4.1",
+    "passport-google-oauth20": "^2.0.0"
+  }
 }
